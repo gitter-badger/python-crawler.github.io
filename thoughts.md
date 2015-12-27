@@ -21,12 +21,22 @@
 
 - GET requests
 - POST requests
-- to login
+  - to login
+  - uploading files
 - simulating session
+- handling cookies
 - processing header
 - pass captcha
 - using proxy
 - avoid getting banned
+
+## Storing Data
+
+- mysql
+- sqlite
+- csv
+- json
+- mongo
 
 ## Testing
 
@@ -55,5 +65,4 @@
 - g0v projects
 - site-mirror
 
-## 
-
+##  
