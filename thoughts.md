@@ -49,10 +49,12 @@
 - https
 - ftp
 - bbs
+- irc
 
 ## Advance Techniques
 
 - parallel execution
+- periodic update
 
 ## Ideas
 
@@ -65,4 +67,3 @@
 - g0v projects
 - site-mirror
 
-##  
