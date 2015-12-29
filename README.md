@@ -1,4 +1,6 @@
-# Website Content Design
+# www.pythoncrawler.com.tw
+
+Website Content Design
 
 ## Libraries
 
@@ -55,7 +57,7 @@
 
 - parallel execution
 - periodic update
-- timeout
+- connection timeout
 - logging
 
 ## Ideas
@@ -68,3 +70,5 @@
 - finance data
 - g0v projects
 - site-mirror
+
+tbc
