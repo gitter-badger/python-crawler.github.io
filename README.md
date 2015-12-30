@@ -50,7 +50,7 @@ Website Content Design
 - http
 - https
 - ftp
-- bbs
+- telnet (for bbs)
 - irc
 
 ## Advance Techniques
@@ -64,6 +64,7 @@ Website Content Design
 
 - article recommendation : collect python crawler relative articles from internet.
 - no APIs : calling API is not a crawler for me. APIs topics will not be discussed here.
+- challenge list : websites sorted by level of difficulty to crawl
 
 ## Application Topics
 
