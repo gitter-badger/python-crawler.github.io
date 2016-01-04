@@ -1,5 +1,7 @@
 # www.pythoncrawler.com.tw
 
+[![Join the chat at https://gitter.im/python-crawler/python-crawler.github.io](https://badges.gitter.im/python-crawler/python-crawler.github.io.svg)](https://gitter.im/python-crawler/python-crawler.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Website Content Design
 
 ## Libraries
